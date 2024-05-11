@@ -1,0 +1,17 @@
+C:\Users\Dany\Documents\MCUXpressoIDE_11.9.0_2144\workspace\BluetoothModule\drivers/fsl_clock.h:584:20:CLOCK_EnableClock	24	static
+../source/UART.h:30:6:UART2_init	16	static
+../source/UART.h:45:6:InitUART2Pins	8	static
+../source/UART.h:59:6:UART_SendString	16	static
+../source/UART.h:72:6:UART_ReadString	32	static
+../source/LCD.h:15:6:LCD_init	8	static
+../source/LCD.h:58:6:LCD_ready	16	static
+../source/LCD.h:88:6:LCD_command	16	static
+../source/LCD.h:104:6:LCD_command_noWait	16	static
+../source/LCD.h:117:6:LCD_data	16	static
+../source/LCD.h:134:6:LCD_print_1st_line	24	static
+../source/LCD.h:147:6:LCD_print_2nd_line	24	static
+../source/LCD.h:160:6:LCD_clear	8	static
+../source/timer.h:7:6:TPM0_init	8	static
+../source/timer.h:23:6:delaySec	24	static
+../source/timer.h:33:6:delayMs	24	static
+../source/BluetoothModule.c:13:5:main	72	static
